@@ -18,3 +18,9 @@ Python Scripts for AWS
 - How to get your access and private key: https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html
 - How to create a S3 bucket: https://docs.aws.amazon.com/s3/?id=docs_gateway
 - How to create and configure a EC2 instance: https://docs.aws.amazon.com/ec2/?id=docs_gateway
+
+
+## How to install 
+- ``` git clone https://github.com/CyberCosmos24/AWS.git``` 
+-  ``` cd AWS``` 
+-  ``` bash install.sh``` 
