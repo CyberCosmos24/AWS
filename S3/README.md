@@ -1,13 +1,13 @@
 # Simple S3 Manager 
-
+This S3 manager was made with click CLI. 
 ## What you will need 
 - IAM Role Access Key and Secret Access Key
 - S3 Bucket 
 
-## Commands
+## Usage and Example 
 ```
-list-bucket
-make-bucket
-delete-bucket
+bucket.py [command] 
+
+```
 
 
