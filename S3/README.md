@@ -6,11 +6,11 @@ This S3 manager was made with click CLI.
 
 ## Usage and Example 
 ```
-bucket.py --help
+/AWS/S3> python3 bucket.py --help
 
 ```
 ```
-bucket.py [command]
+/AWS/S3> python3 bucket.py [command]
 
 ```
 
